@@ -10,7 +10,7 @@ Problem Statement:
 
 For companies like Lending Club correctly predicting whether or not a loan will be a default is very important. In this project, using the historical data from 2007 to 2015, deep learning model were built to predict the chance of default for future loans. As you will see later this dataset is highly imbalanced and includes a lot of features that makes this problem more challenging.
 
-***exploratory data analysis***
+***Exploratory Data Analysis***
 
 Handling and balancing the data
 
